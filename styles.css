@@ -1,0 +1,21 @@
+* {
+    background-color:slategray;
+}
+
+h1 {
+    color:violet;
+
+}
+
+h3 {
+    color:limegreen;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color:red;
+    text-decoration: none;
+}
